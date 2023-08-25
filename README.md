@@ -1,4 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Abdoul Dramane OUEDRAOGO</h1>
+<img src="assets/header.svg"></img>
 <h3 align="center">A passionate developer from Burkina Faso</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-dramane&label=Profile%20views&color=0e75b6&style=flat" alt="a-dramane" /> </p>
